@@ -179,7 +179,7 @@ const Home = () => {
             <div className="item" data-aos="fade-up">
               <div>
                 <Icon>attach_money</Icon>
-                <h3>Cashback, vai levar para link de cashback</h3>
+                <h3>Cashback</h3> {/* , vai levar para link de cashback */}
               </div>
             </div>
             <div className="item" data-aos="fade-up">
