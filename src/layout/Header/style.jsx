@@ -90,13 +90,18 @@ export const Container = styled.div`
       margin-top: -5px;
 
       p {
-        border: solid 1px #172c92;
+        /* border: solid 1px #172c92; */
         border-radius: 24px;
         padding: 5px 10px;
+        background:#172c92;
+        color:#dcb51a;
 
         :hover {
-          border-color: #172c92;
+          /* border-color: #172c92; */
           border-width: 2px;
+          background:#dcb51a;
+          color:#172c92;
+
         }
       }
     }

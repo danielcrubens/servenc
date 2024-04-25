@@ -17,7 +17,7 @@ const Header = () => {
   return (
     <>
       <WppButton>
-        <a href="https://api.whatsapp.com/send?phone=5515&text=Oi, tudo bem? Estou no site da Servenc administradora. Poderia me ajudar?">
+        <a href="https://api.whatsapp.com/send?phone=551599842-6617&text=Oi, tudo bem? Estou no site da Servenc administradora. Poderia me ajudar?">
           <img src="/whatsapp-logo-icone.png" />
         </a>
       </WppButton>
@@ -75,7 +75,7 @@ const Header = () => {
               <p>ServenC Prime</p>
             </Scroll.Link>
           </div>
-          <a href="#">
+          <a href="servenceconomia.polgo.com.br">
             <div id="menu-login" onClick={showBoxLogin}>
               <Icon>login</Icon>
               <p>Login</p>
@@ -162,7 +162,7 @@ const Header = () => {
 
             <hr />
 
-            <a href="#" onClick={showBoxLogin}>
+            <a href="servenceconomia.polgo.com.br" onClick={showBoxLogin}>
               <div id="menu-login">
                 <Icon>login</Icon>
                 <h2>Login</h2>
