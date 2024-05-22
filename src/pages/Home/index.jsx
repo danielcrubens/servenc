@@ -176,12 +176,14 @@ const Home = () => {
                 <h3>Canal do Sindico</h3>
               </div>
             </div>
+              <a href="https://servenc.hlp.polgo.online/" target="_blank" rel="noopener noreferrer">
             <div className="item" data-aos="fade-up">
               <div>
                 <Icon>attach_money</Icon>
-                <h3>Cashback</h3> {/* , vai levar para link de cashback */}
+                <h3>Cashback</h3> 
               </div>
             </div>
+              </a>
             <div className="item" data-aos="fade-up">
               <div>
                 <Icon>emoji_events</Icon>

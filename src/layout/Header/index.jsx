@@ -74,8 +74,14 @@ const Header = () => {
             >
               <p>ServenC Prime</p>
             </Scroll.Link>
+
+            
+            <a href="https://www.brcondominio.com.br/br1/app/index.html" className="button-rounded"
+            >
+              <p>Boleto</p>
+            </a>
           </div>
-          <a href="servenceconomia.polgo.com.br">
+          <a href="https://servenceconomia.polgo.com.br" target="_blank" rel="noopener noreferrer">
             <div id="menu-login" onClick={showBoxLogin}>
               <Icon>login</Icon>
               <p>Login</p>
@@ -161,8 +167,7 @@ const Header = () => {
             </Scroll.Link>
 
             <hr />
-
-            <a href="servenceconomia.polgo.com.br" onClick={showBoxLogin}>
+            <a href="https://servenceconomia.polgo.com.br" onClick={showBoxLogin}>
               <div id="menu-login">
                 <Icon>login</Icon>
                 <h2>Login</h2>
