@@ -50,7 +50,7 @@ const Home = () => {
 
   function openWhatsApp() {
     window.location.href =
-      "https://api.whatsapp.com/send?phone=551599842-6617&text=Oi, tudo bem? Estou no site da Servenc administradora. Poderia me ajudar?"
+      "https://api.whatsapp.com/send?phone=551532243762&text=Oi, tudo bem? Estou no site da Servenc administradora. Poderia me ajudar?"
   }
 
   const [showAcaoSocial, setShowAcaoSocial] = useState(false)
@@ -352,16 +352,19 @@ const Home = () => {
             <img src="/ServenC-branco.png" alt="Logo ServenC branco" />
             <div>
               <p>Atendimento ao síndico</p>
-              <p>Telefone: (15) 99842-6617</p>
+              <p>Telefone: 15 3224-3762</p>
               <br />
               <p>Atendimento comercial</p>
-              <a href="https://api.whatsapp.com/send?phone=551599842-6617&text=Oi, tudo bem? Estou no site da Servenc administradora. Poderia me ajudar?">Solicitar proposta</a>
+              <a href="https://api.whatsapp.com/send?phone=551532243762&text=Oi, tudo bem? Estou no site da Servenc administradora. Poderia me ajudar?">Solicitar proposta</a>
             </div>
             <div>
               <p>Linha direta condôminos</p>
-              <p>WhatApp: (15) 99842-6617</p>
-              <p>Telefone: (15) 99842-6617</p>
+              <p>WhatApp: (15) 3224-3762</p>
+              <p>Telefone: (15) 3224-3762</p>
               <p>atendimento@servenc.com.br</p>
+              <a href="https://instagram.com/servenc.adm/" target="_blank" rel="noopener noreferrer">
+                <p>Instagram</p>
+              </a>
             </div>
             <div>
               <p>Horário de atendimento:</p>

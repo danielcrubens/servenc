@@ -17,7 +17,7 @@ const Header = () => {
   return (
     <>
       <WppButton>
-        <a href="https://api.whatsapp.com/send?phone=551599842-6617&text=Oi, tudo bem? Estou no site da Servenc administradora. Poderia me ajudar?">
+        <a href="https://api.whatsapp.com/send?phone=551532243762&text=Oi, tudo bem? Estou no site da Servenc administradora. Poderia me ajudar?">
           <img src="/whatsapp-logo-icone.png" />
         </a>
       </WppButton>
